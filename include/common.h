@@ -1,0 +1,15 @@
+#define STRAIGHTBET 1
+#define SPLITBET 2
+#define STREETBET 3
+#define CORNERBET 4
+#define LINEBET 5
+#define EVENODDBET 6
+#define SPECIAL5BET 7
+#define RANGEBET 8
+#define FIRST12 121
+#define SECOND12 122
+#define THIRD12 123
+#define COLOURBET 9
+#define HIGHLOWBET 10
+#define FIRSTHALF 181
+#define SECONDHALF 182
